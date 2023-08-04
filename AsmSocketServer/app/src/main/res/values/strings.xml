@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsmSocketServer</string>
+    <string name="channel_name">chanel 1\n</string>
+    <string name="channel_description">channel notify\n</string>
+</resources>
